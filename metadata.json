@@ -1,0 +1,6 @@
+{
+  "name": "Geometría Espacial: Puntos, Rectas y Planos",
+  "description": "Una presentación interactiva y taller de geometría espacial (puntos, rectas y planos) ambientada en el universo de Mario Bros para estudiantes de 7° grado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
